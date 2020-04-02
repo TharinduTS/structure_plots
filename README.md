@@ -6,6 +6,6 @@ https://github.com/TharinduTS/allofraseri.md/blob/master/README.md
 Then copied the merged Bam file to computecanada/graham
 
 If you have multiple Bam files, you can easily create a file with the list of files using
-``bash
+```bash
 find $BAMFOLDER |  grep bam$ > all.files
 ```
